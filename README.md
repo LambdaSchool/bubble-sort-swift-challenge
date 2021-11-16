@@ -20,4 +20,4 @@ bubbleSort([1, 3, 6, 2, 4, 5]) // returns [1, 2, 3, 4, 5, 6]
 
 **_Stretch:_** What's the time complexity of your algorithm?  Are there ways you can improve it? Could you write it to take a generic array instead of just ints?
 
-Here are the overall [instructions for code challenges](https://github.com/LambdaSchool/ios-code-challenge-instructions). Before you begin, fork and clone this repo and work through your solution in the included starter playground file. When you're done, **Please make sure to save and push all your work, and submit a Pull Request. Don't forget tag your TL so they can review your submission!**
+Here are the overall [instructions for code challenges](https://github.com/BloomInstituteOfTechnology/ios-code-challenge-instructions). Before you begin, fork and clone this repo and work through your solution in the included starter playground file. When you're done, **Please make sure to save and push all your work, and submit a Pull Request. Don't forget tag your TL so they can review your submission!**
